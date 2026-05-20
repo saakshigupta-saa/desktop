@@ -1,7 +1,5 @@
 Node.js Dashboard
-
 A modern admin dashboard built with Node.js, featuring responsive design, authentication, and data visualization components.
-
 🚀 Features
 User authentication and authorization
 Dashboard overview with key metrics
@@ -20,15 +18,16 @@ Chart.js
 MySQL or MongoDB (depending on configuration)
 📦 Installation
 Clone the repository:
+</>bash
 git clone https://github.com/saakshigupta-saa/nodejs_dashboard.git
 Navigate to the project directory:
+</> bash
 cd nodejs_dashboard
-Install dependencies:
-npm install
-Configure environment variables by creating a .env file.
 Start the development server:
-npm start
+</>bash
+npm run dev
 Open your browser and visit:
+</>bash
 http://localhost:3000
 📁 Project Structure
 nodejs_dashboard/
@@ -43,12 +42,9 @@ nodejs_dashboard/
 ├── .env.example
 └── README.md
 👩‍💻 Author
-Sakshi Gupta
-
-GitHub: https://github.com/saakshigupta-saa
-
-
 
 Sakshi Gupta
 
 GitHub: https://github.com/saakshigupta-saa
+
+
